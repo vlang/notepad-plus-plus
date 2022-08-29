@@ -42,7 +42,7 @@ That should be it :D
             <Keywords name="Keywords6"></Keywords>
             <Keywords name="Keywords7"></Keywords>
             <Keywords name="Keywords8"></Keywords>
-            <Keywords name="Delimiters">00&quot; 01\&quot; 02&quot; 03&apos; 04\&apos; 05&apos; 06` 07\` 08` 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
+            <Keywords name="Delimiters">00&quot; 01\ 02&quot; 03&apos; 04\ 05&apos; 06` 07\ 08` 09r&apos; 10 11&apos; 12r&quot; 13 14&quot; 15 16 17 18 19 20 21 22 23</Keywords>
         </KeywordLists>
         <Styles>
             <WordsStyle colorStyle="0" name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
@@ -64,8 +64,8 @@ That should be it :D
             <WordsStyle colorStyle="1" name="DELIMITERS1" fgColor="7F007F" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle colorStyle="1" name="DELIMITERS2" fgColor="7F007F" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle colorStyle="1" name="DELIMITERS3" fgColor="7F007F" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle colorStyle="1" name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle colorStyle="1" name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle colorStyle="1" name="DELIMITERS4" fgColor="7F007F" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle colorStyle="1" name="DELIMITERS5" fgColor="7F007F" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle colorStyle="1" name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle colorStyle="1" name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle colorStyle="1" name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
